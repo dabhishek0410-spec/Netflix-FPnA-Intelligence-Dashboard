@@ -1,0 +1,139 @@
+{
+  "metadata": {
+    "title": "Netflix FP&A Strategic Intelligence Report (2026-2030)",
+    "generated_at": "2026-05-24T14:40:00Z",
+    "currency": "USD Millions"
+  },
+  "financial_cagr_analysis_2025_2030": {
+    "base": {
+      "fy_2025_revenue": 45183.27,
+      "fy_2030_revenue": 71856.35,
+      "5yr_revenue_cagr": 0.0972,
+      "5yr_revenue_cagr_pct": "9.72%"
+    },
+    "bear": {
+      "fy_2025_revenue": 45183.27,
+      "fy_2030_revenue": 63815.07,
+      "5yr_revenue_cagr": 0.0715,
+      "5yr_revenue_cagr_pct": "7.15%"
+    },
+    "bull": {
+      "fy_2025_revenue": 45183.27,
+      "fy_2030_revenue": 77811.92,
+      "5yr_revenue_cagr": 0.1148,
+      "5yr_revenue_cagr_pct": "11.48%"
+    }
+  },
+  "cumulative_fcf_generation_2026_2030": {
+    "base": {
+      "total_fcf_millions": 60232.0,
+      "average_annual_fcf_millions": 12680.42
+    },
+    "bear": {
+      "total_fcf_millions": 44105.68,
+      "average_annual_fcf_millions": 9285.41
+    },
+    "bull": {
+      "total_fcf_millions": 69152.31,
+      "average_annual_fcf_millions": 14558.38
+    }
+  },
+  "regional_share_shifts_2025_vs_2030": {
+    "base": {
+      "UCAN": {
+        "revenue_2025": 19960.27,
+        "share_2025_pct": "44.18%",
+        "revenue_2030": 29022.95,
+        "share_2030_pct": "40.39%",
+        "share_shift_pct": "-3.79%"
+      },
+      "EMEA": {
+        "revenue_2025": 14510.0,
+        "share_2025_pct": "32.11%",
+        "revenue_2030": 24076.28,
+        "share_2030_pct": "33.51%",
+        "share_shift_pct": "+1.39%"
+      },
+      "LATAM": {
+        "revenue_2025": 5360.0,
+        "share_2025_pct": "11.86%",
+        "revenue_2030": 8534.64,
+        "share_2030_pct": "11.88%",
+        "share_shift_pct": "+0.01%"
+      },
+      "APAC": {
+        "revenue_2025": 5353.0,
+        "share_2025_pct": "11.85%",
+        "revenue_2030": 10222.47,
+        "share_2030_pct": "14.23%",
+        "share_shift_pct": "+2.38%"
+      }
+    },
+    "bear": {
+      "UCAN": {
+        "revenue_2025": 19960.27,
+        "share_2025_pct": "44.18%",
+        "revenue_2030": 25851.04,
+        "share_2030_pct": "40.51%",
+        "share_shift_pct": "-3.67%"
+      },
+      "EMEA": {
+        "revenue_2025": 14510.0,
+        "share_2025_pct": "32.11%",
+        "revenue_2030": 21543.55,
+        "share_2030_pct": "33.76%",
+        "share_shift_pct": "+1.65%"
+      },
+      "LATAM": {
+        "revenue_2025": 5360.0,
+        "share_2025_pct": "11.86%",
+        "revenue_2030": 7625.37,
+        "share_2030_pct": "11.95%",
+        "share_shift_pct": "+0.09%"
+      },
+      "APAC": {
+        "revenue_2025": 5353.0,
+        "share_2025_pct": "11.85%",
+        "revenue_2030": 8795.1,
+        "share_2030_pct": "13.78%",
+        "share_shift_pct": "+1.93%"
+      }
+    },
+    "bull": {
+      "UCAN": {
+        "revenue_2025": 19960.27,
+        "share_2025_pct": "44.18%",
+        "revenue_2030": 31500.42,
+        "share_2030_pct": "40.48%",
+        "share_shift_pct": "-3.69%"
+      },
+      "EMEA": {
+        "revenue_2025": 14510.0,
+        "share_2025_pct": "32.11%",
+        "revenue_2030": 26045.33,
+        "share_2030_pct": "33.47%",
+        "share_shift_pct": "+1.36%"
+      },
+      "LATAM": {
+        "revenue_2025": 5360.0,
+        "share_2025_pct": "11.86%",
+        "revenue_2030": 9242.64,
+        "share_2030_pct": "11.88%",
+        "share_shift_pct": "+0.02%"
+      },
+      "APAC": {
+        "revenue_2025": 5353.0,
+        "share_2025_pct": "11.85%",
+        "revenue_2030": 11023.53,
+        "share_2030_pct": "14.17%",
+        "share_shift_pct": "+2.32%"
+      }
+    }
+  },
+  "strategic_highlights": [
+    "Q1 2026 financials were dramatically bolstered by a $2.8 billion Warner Bros. Discovery merger termination fee following mutual termination under regulatory headwinds.",
+    "WBD termination fee proceeds are being strategically reallocated to accelerate content development and share buybacks.",
+    "Netflix has successfully transitioned away from reporting quarterly subscriber additions, focusing the investment community on revenue, operating margin, and engagement metrics.",
+    "APAC and EMEA continue to exhibit high relative growth premiums, whereas UCAN remains the mature, cash-cow segment."
+  ]
+}
